@@ -33,6 +33,6 @@ status-website:
     - title: Avant Health
       href: https://www.avanthealth.ai
     - title: Email Support
-      href: emailto:support@avanthealth.ai
+      href: mailto:support@avanthealth.ai
 
 user-agent: barretthafner
