@@ -28,8 +28,6 @@ status-website:
   introMessage: "This is the status website for Avant Health Platform, showing the real-time status of our services. Visit [our website](https://www.avanthealth.ai) for more information about our services."
   favicon: https://app.avanthealth.ai/favicon.ico
   navbar:
-    - title: Status
-      href: /
     - title: Avant Health
       href: https://www.avanthealth.ai
     - title: Email Support
