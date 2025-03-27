@@ -20,9 +20,19 @@ sites:
 assignees:
   - AvantHealth/infra
 status-website:
+  theme: light
   cname: status.avanthealth.ai
   logoUrl: https://app.avanthealth.ai/assets/logo-text-0ENtWE94.svg
   name: Avant Health Status
   introTitle: "**Avant Health Platform Status**"
   introMessage: "This is the status website for Avant Health Platform, showing the real-time status of our services. Visit [our website](https://www.avanthealth.ai) for more information about our services."
   favicon: https://app.avanthealth.ai/favicon.ico
+  navbar:
+    - title: Status
+      href: /
+    - title: Avant Health
+      href: https://www.avanthealth.ai
+    - title: Email Support
+      href: emailto:support@avanthealth.ai
+
+user-agent: barretthafner
