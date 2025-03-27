@@ -16,6 +16,7 @@ sites:
     url: https://app.avanthealth.ai
   - name: Avant Health API
     url: https://app-api.avanthealth.ai
+    icon: https://app.avanthealth.ai/favicon.ico
 
 assignees:
   - AvantHealth/infra
